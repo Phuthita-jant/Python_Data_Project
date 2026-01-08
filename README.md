@@ -110,7 +110,7 @@ sns.lineplot(data=df_plot, dashes=False, legend='full', palette='tab10')
 sns.set_theme(style='ticks')
 sns.despine()
 
-plt.title('Trending Skills for Data Analyst in Thailand')
+plt.title('Trending Skills for Data Analysts in Thailand')
 plt.ylabel('Likelihood of Job Posts')
 plt.xlabel('2023')
 plt.legend().remove()
