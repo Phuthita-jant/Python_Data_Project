@@ -200,7 +200,7 @@ plt.show()
 *Two bar graphs showing the highest-paying and most in-demand skills for Data Analysts in Thailand.*
 
 ### Insights:
-- Advanced technical skills such as Spark, Git, and Golang are associated with the highest salary levels, reaching up to 160,000 USD, despite appearing less frequently in job postings.
+- Advanced technical skills such as Spark, Git, and Golang are associated with the highest salary levels, reaching up to $160,000, despite appearing less frequently in job postings.
 - In contrast, high-demand skills such as SQL, Tableau, and Power BI appear in a larger number of job postings but are associated with relatively lower salary levels compared to more advanced skills.
 - This highlights a clear gap between market demand and salary potential. Skills that command higher salaries tend to be more advanced, specialized, and technically complex, despite being requested in fewer job postings
 - The findings suggest that individuals aiming for higher salary should develop advanced technical skills alongside widely demanded foundational skills, balancing market demand with salary potential.
