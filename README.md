@@ -159,7 +159,7 @@ plt.show()
 
 *Box plot showing salary distributions for the six most popular data job titles.*
 
-### Insights
+### Insights:
 - Machine Learning Engineers and Data Engineers have the highest median salaries, while Business Analysts earn the lowest, indicating that roles requiring deeper technical expertise tend to offer higher compensation.
 - Data Scientists show the widest salary distribution and notable outliers, suggesting that experience, specialization, and niche skills can lead to significantly higher pay.
 - Senior Data Analysts earn noticeably more than Data Analysts, demonstrating clear salary growth with increased experience, although analyst roles still earn less than engineering-focused positions.
