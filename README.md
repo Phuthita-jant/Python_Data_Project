@@ -145,7 +145,7 @@ sns.set_theme(style='ticks')
 sns.despine()
 
 # this is all the same
-plt.title('Salary Distributions of Data Jobs in the TH')
+plt.title('Salary Distributions of Data Jobs in Thailand')
 plt.xlabel('Yearly Salary (USD)')
 plt.ylabel('')
 plt.xlim(0, 250000) 
