@@ -81,7 +81,7 @@ for i, job_title in enumerate(job_titles):
     for n, v in enumerate(df_plot['skill_percent']):
         ax[i].text(v + 1, n, f'{v:.0f}%', va='center')
 
-fig.suptitle('Likelihood of Preferred Skill for Job Postings in Thailand', fontsize=15)
+fig.suptitle('Likelihood of Preferred Skills for Job Postings in Thailand', fontsize=15)
 fig.tight_layout(h_pad=0.8)
 plt.show()
 ```
